@@ -1,11 +1,12 @@
 
 ## Hey there! 👋
 
-I'm a **Computer Engineer** 💻  
-I enjoy working on personal projects and continuously improving my skills.
+I'm a **Computer Engineer** ✨
+
+I enjoy working on personal projects and continuously improving my skills.😊
 
 🛠️ I'm interested in:
-- Software development  
+- Software development 🤖
 - Network security 🔐  
 - Emerging technologies 🚀  
 - Electrical & electronics projects ⚡  
